@@ -1,5 +1,8 @@
 # Flutter Movie App
 
+[Click here to view the video](https://https://github.com/Kushal25Gupta/netflix/raw/main/Screen_recording_20241211_211541.mp4.mp4)
+
+
 This is a simple **Flutter app** that allows users to search and view details of TV shows using data from the [TVMaze API](https://www.tvmaze.com/). The app consists of two main screens:
 1. **Home Screen**: Displays a list of all movies fetched from the API.
 2. **Search Screen**: Allows users to search for a specific movie by name.
@@ -33,6 +36,8 @@ This is a simple **Flutter app** that allows users to search and view details of
     - **Network**
 
 ## Setup Instructions
+
+
 
 ### Prerequisites
 To run this project, you need:
