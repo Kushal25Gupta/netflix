@@ -1,6 +1,6 @@
 # Flutter Movie App
 
-[Click here to view the video](https://https://github.com/Kushal25Gupta/netflix/raw/main/Screen_recording_20241211_211541.mp4.mp4)
+[![Watch the video](https://raw.githubusercontent.com/Kushal25Gupta/netflix/main/Screen_recording_20241211_211541.mp4)](https://raw.githubusercontent.com/Kushal25Gupta/netflix/main/Screen_recording_20241211_211541.mp4)
 
 
 This is a simple **Flutter app** that allows users to search and view details of TV shows using data from the [TVMaze API](https://www.tvmaze.com/). The app consists of two main screens:
